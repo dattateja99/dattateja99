@@ -2,11 +2,9 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 Graduate Student at University of Southern California
 
-Final-year Computer Science Master's student graduating in May 2025, actively looking for full-time opportunities in Software Development, Data Science, and Machine Learning. With 2+ years of industry experience and a proven track record of building scalable AI systems, cloud applications, and end-to-end ML pipelines, I’m excited to solve impactful problems and innovate at scale.
+Master's student, graduated in May 2025, actively looking for full-time opportunities in Software Development, Data Science, and Machine Learning. With 2+ years of industry experience and a proven track record of building scalable AI systems, cloud applications, and end-to-end ML pipelines, I’m excited to solve impactful problems and innovate at scale.
 
-* 🌍 Based in Los Angeles, CA
-
-* 🎓 MS in Computer Science, USC — Graduating May 2025
+* 🎓 MS in Computer Science, USC — Graduate May 2025
 
 * 💼 Looking for: Full-Time Roles (Software Dev, ML, Data)
 
