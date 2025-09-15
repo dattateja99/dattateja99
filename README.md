@@ -2,11 +2,11 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 Graduate Student at University of Southern California
 
-Master's student, graduated in May 2025, actively looking for full-time opportunities in Software Development, Data Science, and Machine Learning. With 2+ years of industry experience and a proven track record of building scalable AI systems, cloud applications, and end-to-end ML pipelines, I’m excited to solve impactful problems and innovate at scale.
+Master's student, graduated in May 2025, actively looking for full-time opportunities in Software Development, Data Science, and Machine Learning. With 2+ years of industry experience and a proven track record of building scalable Full-Stack AI systems, cloud applications, and end-to-end software, I’m excited to solve impactful problems and innovate at scale.
 
 * 🎓 MS in Computer Science, USC — Graduate May 2025
 
-* 💼 Looking for: Full-Time Roles (Software Dev, ML, Data)
+* 💼 Looking for: Full-Time Roles (Software Development Engineer, Machine Learning Engineer, Data Analyst, Data Scientist)
 
 * 📫 Reach me at: anakala@usc.edu
 
@@ -19,17 +19,23 @@ Master's student, graduated in May 2025, actively looking for full-time opportun
 
 ### Experience
 
-==> IT Engineer Intern
-USC Lockshop, Los Angeles, CA — May 2024 – Present
-* Developed cross-platform inventory app (Flutter + Flask + GCP), automating Excel generation and enabling 3x faster access.
-* Implemented barcode/image recognition tools with MLTK for real-time key management, cutting storage by 80%.
-* Automated data workflows and visualizations, improving reporting efficiency by 30%.
+==> Web Developer
+USC Lockshop, Los Angeles, CA — May 2024 – May 2025
+* Optimized deployment speed by 40% by enhancing CI/CD pipelines in USC’s Door Key Management App using GitHub, Flask, React, and Google Cloud Platform(GCP).
+* Developed an image-recognition inventory app using NLTK and barcode detection, reducing storage usage by 80% and increasing efficiency by 95%.
+* Led the development of a cross-platform app with Flutter and ReactJS, improving data access speed by 3x and automating Excel report generation.
+* Implemented Excel parsing and integrated MongoDB, cutting manual processing time by 50% and improving data management usability.
+* Automated routine Door-Key data verification and validation tasks, reducing manual effort by 30% and enabling trend visualization for operational decisions.
 
-==> Data Scientist / System Engineer
+==> Systems Engineer
 Tata Consultancy Services, Pune, India — Oct 2021 – May 2023
-* Built and deployed CI/CD pipelines for Tableau dashboards on GCP, ensuring 95% uptime and reducing deployment time by 50%.
-* Created scalable ML pipelines for sales predictions and marketing analytics using Python, SQL, Pandas, and BigQuery.
-* Conducted A/B testing to optimize campaign ROI and segmentation, yielding a 15% boost.
+* Delivered real-time insights to global stakeholders by creating a Retailer Benchmarking dashboard using Tableau, Python, GCP, and SQL, accelerating decision-making.
+* Improved sales data processing efficiency by 30% by optimizing pipelines using Python, SQL, Pandas, NumPy, and Google Cloud.
+* Improved efficiency in managing warranties by 15% by developing a warranty binning app that analyses data from past years, using Spring Framework, Java, Python, React, and SQL within an Agile development environment.
+* Streamlined SQL workflows by 40% by implementing Python scripts to automate the Warranty Binning Process, dynamically generating queries from Excel inputs.
+* Accelerated project delivery by 20% by implementing robust CI/CD pipelines with Git, Jenkins, AWS(S3, EC2), Docker, and Terraform, and enhancing code quality.
+* Enabled rapid response to system downtimes by implementing resilient performance and error monitoring using Grafana and Prometheus, resulting in faster issue detection and resolution.
+* Improved data retrieval speed by 35% by integrating automated queries with BigQuery for large-scale warranty claim analysis.
 
 
 ### Projects
